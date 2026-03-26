@@ -1,0 +1,3 @@
+timestamp,filename,prediction,confidence
+2026-03-06 11:36:26,person9_bacteria_39.jpeg,PNEUMONIA,98.5%
+2026-03-06 11:37:21,NORMAL2-IM-1436-0001.jpeg,NORMAL,53.6%
